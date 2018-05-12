@@ -1,0 +1,34 @@
+_repo: Greenwich-Village_16907
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Cram, Allan G. (Allan Gilbert)
+    alias: Cram, Allan Gilbert
+    birthdate: 1886
+    deathdate: 1947
+    gutenberg_agent_id: '7011'
+    url: http://www.gutenberg.org/2009/agents/7011
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chapin, Anna Alice
+    birthdate: 1880
+    deathdate: 1920
+    gutenberg_agent_id: '7010'
+    url: http://www.gutenberg.org/2009/agents/7010
+description: ''
+gutenberg_issued: '2005-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16907'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greenwich Village (New York, N.Y.)'
+- !lcc 'F106'
+title: Greenwich Village
+url: http://www.gutenberg.org/ebooks/16907
